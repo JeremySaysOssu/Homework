@@ -1,3 +1,7 @@
+// A parameter is a variable in a method definition. When a method is called, the arguments are the data you pass into the method
+//
+// "Commit 1 - Verbal questions".
+
 // function pythagorean(sideA, sideB){
 //   return Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2));
 // }
