@@ -6,21 +6,21 @@ two keyboard buttons will make players color blocks move.
 
 have aleart show winner 1 or 2
 
-// function moveR() {
-//
-// }
+function moveR() {
 
-// var redB;
-// var blueB
-//
-// function startGame() {
-//
-// }
-//
-// function mvP1() {
-//
-// }
-//
-// function mvP2() {
-//
-// }
+}
+
+var redB;
+var blueB
+
+function startGame() {
+
+}
+
+function mvP1() {
+
+}
+
+function mvP2() {
+
+}
