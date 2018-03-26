@@ -27,7 +27,13 @@ const mvP = (event) => {
 const checkWinner  = ()  => {
    if (redPos <= 500) {
      alert("Winner Winner Chicken Dinner!");
-
    }
-}
-document.onkeyup = mvP;
+
+   const checkWinner  = ()  => {
+      if (bluePos <= 500) {
+        alert("Winner Winner Chicken Dinner!");
+
+        }
+    }
+
+document.onkeyleft = mvP;

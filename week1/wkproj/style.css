@@ -20,22 +20,3 @@ h1 {
 .blue {
 	background:#00f;
 }
-
-.white {
-  background:#ffffff;
-
-}
-
-#colorstrip {
-  width: 5%; height: 70px;
-    border-style: solid;
-    border-color: white;
-    background-color: white;
-    z-index: -1;
-    position: absolute;
-    top: 5;
-    left: 5;
-    right: 5;
-    bottom: 0;
-
-}
