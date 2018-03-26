@@ -33,6 +33,9 @@ h1 {
     background-color: white;
     z-index: -1;
     position: absolute;
+    top: 5;
+    left: 5;
     right: 5;
+    bottom: 0;
 
 }
