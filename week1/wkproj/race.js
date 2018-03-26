@@ -36,4 +36,4 @@ const checkWinner  = ()  => {
         }
     }
 
-document.onkeyleft = mvP;
+document.onkeyleft = mvP; 
