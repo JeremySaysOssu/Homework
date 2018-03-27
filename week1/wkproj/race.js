@@ -6,21 +6,23 @@
 //
 // have aleart show winner 1 or 2
 
-
+//  allows me to set the name to a value.
 let redPos  = 0;
 let bluePos = 0;
+let redbox = document.getElementById('redbox');
+let bluebox = document.getElementById('bluebox');
 
-
+//
 const mvP = (event) => {
   if (event.keyCode == 37) {
     redPos += 40;
-    redBox.style.left = redPos  + "px";
+    redbox.style.left = redPos + "px";
     checkWinner();
   }
-  const mvP = (event) => {
+}
     if (event.keyCode == 68) {
       bluePos += 40;
-      blueBox.style.left = bluePos  + "px";
+      bluebox.style.left = bluePos + "px";
       checkWinner();
     }
 
@@ -35,5 +37,5 @@ const checkWinner  = ()  => {
 
         }
     }
-
-document.onkeyleft = mvP; 
+}
+document.onkeyup = mvP;
