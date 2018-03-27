@@ -51,20 +51,26 @@
 
 //  was having a hard tine with this one
 
-const inception = {
-   reality: {
-       dreamLayer1: {
-           dreamLayer2: {
-               dreamLayer3: {
-                   dreamLayer4: {
-                       dreamLayer5: {
-                           dreamLayer6: {
-                               limbo: "Joseph Gordon Levitt"
-                          }
-                       }
-                   }
-               }
-           }
-       }
-   }
-}
+// const inception = {
+//    reality: {
+//        dreamLayer1: {
+//            dreamLayer2: {
+//                dreamLayer3: {
+//                    dreamLayer4: {
+//                        dreamLayer5: {
+//                            dreamLayer6: {
+//                                limbo: "Joseph Gordon Levitt"
+//                           }
+//                        }
+//                    }
+//                }
+//            }
+//        }
+//    }
+// }
+//
+// var limbo = null;
+//
+// limbo;
+
+//  correct proccess. the lay should have written from reality to limbo with , spacing them.
