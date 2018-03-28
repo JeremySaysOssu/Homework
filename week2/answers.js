@@ -47,10 +47,12 @@
 //   }
 // }
 //
-// console.log(crazyObject.salsa, [5]);
-
-//  was having a hard tine with this one
-
+// // console.log(crazyObject.salsa, [5]);
+//
+// //  was having a hard tine with this one
+// ray helped:
+// console.log(crazyObject.taco.[5]);
+// -------------------------------------------------
 // const inception = {
 //    reality: {
 //        dreamLayer1: {
